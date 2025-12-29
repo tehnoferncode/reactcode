@@ -46,3 +46,27 @@ Example actions in this app:
 
 ## 📂 Project Structure
 
+src/
+│── App.js
+│
+├── components/
+│ ├── BankAccount.js
+│ └── BankAccount.css
+│
+└── reducer/
+└── bankReducer.js
+
+## ▶️ How to Run This Project
+
+1. Clone or download the repository
+2. Open the project folder
+3. Run the following commands:
+
+```bash
+npm install
+npm start
+
+Open browser and go to:
+
+http://localhost:3000
+
